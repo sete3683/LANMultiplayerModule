@@ -2,7 +2,7 @@
 
 ![ClientGif](./Img/Client.gif) ![ServerGif](./Img/Server.gif)
 
-I'm now developing a Unity game using this project.
+I'm now developing a Unity game using this project.<br>
 https://github.com/sete3683/LANMultiplayerGomoku
 <br><br>
 
